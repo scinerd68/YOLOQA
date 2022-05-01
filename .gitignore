@@ -1,2 +1,4 @@
 venv/
 data/train_preprocessed.pkl
+data/debug_preprocessed.pkl
+__pycache__/
