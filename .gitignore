@@ -1,4 +1,7 @@
 venv/
 data/train_preprocessed.pkl
+data/train_preprocessed2.pkl
 data/debug_preprocessed.pkl
+data/debug_preprocessed2.pkl
 __pycache__/
+models/
