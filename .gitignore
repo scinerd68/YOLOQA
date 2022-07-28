@@ -1,0 +1,5 @@
+venv/
+data/*.pkl
+__pycache__/
+models/*.pth
+# !models/yolo_qa_v6.pth
